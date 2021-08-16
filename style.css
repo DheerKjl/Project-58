@@ -1,0 +1,34 @@
+body{
+  text-align: center;
+}
+p{
+  font-size: 30px;
+}
+#img{
+  border-radius:50%;
+}
+#intro{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+}
+#hobby{
+    background-color: aqua;
+}
+.line{
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+.link:hover{
+    background-color:dodgerblue;
+    font-size: 20px;
+}
